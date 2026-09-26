@@ -53,20 +53,20 @@ Label	Sentiment
 
 The RNN model consists of:
 
-IMDb Reviews
-      ↓
+IMDb Reviews  
+      -
 Tokenization
-      ↓
+      -
 Padding
-      ↓
+      -
 Embedding Layer
-      ↓
+      -
 Simple RNN
-      ↓
+      -
 Dense Layer
-      ↓
+      -
 Sigmoid Activation
-      ↓
+      -
 Positive / Negative
 
 ### Model Layers
